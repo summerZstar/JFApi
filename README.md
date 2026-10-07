@@ -5,15 +5,22 @@
 
 ## 下载
 
-### 免安装绿色版（推荐）
+> 发行物为各平台**便携 zip**（解压即运行，无安装包）。Windows 用 7-Zip 等第三方解压可避免 SmartScreen 弹窗；macOS 首次运行需解除 Gatekeeper 隔离（`xattr -cr jfapi`）；Linux 需系统 WebKit2 依赖。
 
-- **GitHub 下载**（海外节点）：<https://github.com/summerZstar/JFApi/releases/latest/download/jfapi.exe>
-- **Gitee 镜像**（国内加速）：<https://gitee.com/8snow/JFApi/releases/download/v0.1.0/jfapi.exe>
+### Windows x64（推荐）
 
-### NSIS 安装包（含快捷方式 + 卸载入口）
+- **GitHub**：<https://github.com/summerZstar/JFApi/releases/latest/download/JFApi-windows.zip>
+- **Gitee**：<https://gitee.com/8snow/JFApi/releases/download/v1.2.0/JFApi-windows.zip>
 
-- **GitHub 下载**（海外节点）：<https://github.com/summerZstar/JFApi/releases/latest/download/JFApi_0.1.0_x64-setup.exe>
-- **Gitee 镜像**（国内加速）：<https://gitee.com/8snow/JFApi/releases/download/v0.1.0/JFApi_0.1.0_x64-setup.exe>
+### macOS x64
+
+- **GitHub**：<https://github.com/summerZstar/JFApi/releases/latest/download/JFApi-macos.zip>
+- **Gitee**：<https://gitee.com/8snow/JFApi/releases/download/v1.2.0/JFApi-macos.zip>
+
+### Linux x64
+
+- **GitHub**：<https://github.com/summerZstar/JFApi/releases/latest/download/JFApi-linux.zip>
+- **Gitee**：<https://gitee.com/8snow/JFApi/releases/download/v1.2.0/JFApi-linux.zip>
 
 ### 使用文档
 
