@@ -21,7 +21,7 @@
 
 ### 使用文档
 
-<https://jptool.cn/modules/jfapi/index.html>
+<https://jfspeed.cn/modules/jfapi/index.html>
 
 ## 关于
 
