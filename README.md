@@ -7,17 +7,17 @@
 ### Windows x64（推荐）
 
 - **GitHub**：<https://github.com/summerZstar/JFApi/releases/latest/download/JFApi-windows.zip>
-- **Gitee**：<https://gitee.com/8snow/JFApi/releases/download/v1.2.0/JFApi-windows.zip>
+- **Gitee**：<https://gitee.com/8snow/JFApi/releases/download/v1.2.1/JFApi-windows.zip>
 
 ### macOS x64
 
 - **GitHub**：<https://github.com/summerZstar/JFApi/releases/latest/download/JFApi-macos.zip>
-- **Gitee**：<https://gitee.com/8snow/JFApi/releases/download/v1.2.0/JFApi-macos.zip>
+- **Gitee**：<https://gitee.com/8snow/JFApi/releases/download/v1.2.1/JFApi-macos.zip>
 
 ### Linux x64
 
 - **GitHub**：<https://github.com/summerZstar/JFApi/releases/latest/download/JFApi-linux.zip>
-- **Gitee**：<https://gitee.com/8snow/JFApi/releases/download/v1.2.0/JFApi-linux.zip>
+- **Gitee**：<https://gitee.com/8snow/JFApi/releases/download/v1.2.1/JFApi-linux.zip>
 
 ### 使用文档
 
